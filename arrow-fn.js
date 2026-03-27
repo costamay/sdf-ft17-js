@@ -7,7 +7,7 @@
 
 // }
 
-// const greetings = () => "Hello there"
+const greetings = () => "Hello there"
 
 // greetings()
 
