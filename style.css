@@ -18,3 +18,16 @@ ul>li{
 /* #paragraph{
     text-align: center;
 } */
+
+button{
+    color: white;
+    padding: 10px;
+    background-color: black;
+    border-radius: 5px;
+}
+button:hover{
+    cursor: pointer;
+}
+#btn{
+    text-align: center;
+}
